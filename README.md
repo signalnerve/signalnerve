@@ -1,4 +1,4 @@
-<div>![](./github/me.gif)</div>
+<img src="./.github/me.gif" />
 
 hey, i'm signalnerve.
 
