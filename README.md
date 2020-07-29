@@ -1,4 +1,4 @@
-<img src="https://github.com/signalnerve/signalnerve/blob/.github/me.gif" />
+<img src="https://raw.githubusercontent.com/signalnerve/signalnerve/master/.github/me.gif" />
 
 hey, i'm signalnerve.
 
