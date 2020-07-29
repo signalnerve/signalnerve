@@ -1,3 +1,5 @@
+<div>![](./github/me.gif)</div>
+
 hey, i'm signalnerve.
 
 software developer + musician living in austin, tx
