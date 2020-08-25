@@ -11,5 +11,3 @@ what i'm working on:
 [bytesized code](https://www.bytesized.xyz) is a [youtube channel](https://www.bytesized.xyz/yt) and community ([join our discord!](https://www.bytesized.xyz/discord)) for software developers. we put on a bunch of remote tech conferences that you can [check out and rewatch on our website](https://www.bytesized.xyz/conferences).
 
 i'm always hacking on a couple different things, and i'm around if you ever have questions about workers or general programming stuff. say hi on discord – signalnerve#0001.
-
-[learn how this website works ->](https://github.com/signalnerve/github-readme-on-workers)
