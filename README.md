@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/signalnerve/signalnerve/master/.github/me.gif" />
-
 hey, i'm signalnerve.
 
 software developer + musician living in austin, tx
@@ -7,6 +5,8 @@ software developer + musician living in austin, tx
 what i'm working on:
 
 [cloudflare workers](https://workers.dev) — a super fast edge serverless platform. as the developer advocate i build a lot of open-source projects and write about what you can do with the platform. things like [workers-graphql-server](https://github.com/signalnerve/workers-graphql-server) and [wrangler-action](https://github.com/signalnerve/workers-graphql-server).
+
+[mailing list hackers](https://www.mailinglisthackers.com) is a community for people building mailing lists and newsletters. i'm writing a _ton_ on the site right now, teaching everything i know from building my newsletter over the last year and a half for.....
 
 [bytesized code](https://www.bytesized.xyz) is a [youtube channel](https://www.bytesized.xyz/yt) and community ([join our discord!](https://www.bytesized.xyz/discord)) for software developers. we put on a bunch of remote tech conferences that you can [check out and rewatch on our website](https://www.bytesized.xyz/conferences).
 
